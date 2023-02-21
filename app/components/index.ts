@@ -23,5 +23,5 @@ export {Grid} from './Grid';
 export {FeaturedProducts} from './FeaturedProducts';
 export {Pagination, getPaginationVariables, usePagination} from './Pagination';
 export {AddToCartButton} from './AddToCartButton';
-// Sue me
+// Sue me -> Add more components here
 export * from './Icon';
